@@ -32,6 +32,8 @@ tags:
 featured: false
 
 links:
+- name: GitHub
+  url: https://github.com/d3s-trento/contiki-uwb
 url_pdf: 'files/posters/contikiuwb-ewsn18.pdf'
 
 # Featured image

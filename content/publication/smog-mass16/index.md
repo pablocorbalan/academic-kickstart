@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'files/papers/smog-mass16.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
