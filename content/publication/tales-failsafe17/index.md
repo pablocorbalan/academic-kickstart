@@ -30,7 +30,7 @@ summary: ' '
 
 tags:
 - Wireless Sensor Networks
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/papers/tales-c130-failsafe17.pdf'
