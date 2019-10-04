@@ -21,9 +21,9 @@ date_format = "Jan 2006"
   title = "Wireless Systems Intern"
   company = "Bosch Research"
   company_url = "https://www.bosch.com"
-  location = "Sunnyvale, CA, USA"
+  location = "Sunnyvale, California, USA"
   date_start = "2019-05-20"
-  date_end = ""
+  date_end = "2019-09-20"
   description = ""
 
 [[experience]]
@@ -34,6 +34,7 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = ""
   description = """
+  * Low-power Wireless Networking for the Internet of Things (Fall 2019)
   * Laboratory of Wireless Sensor Networks (Fall 2017, Fall 2018)
   * 3 MSc Thesis Co-supervised with Gian Pietro Picco
   """

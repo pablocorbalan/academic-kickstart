@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: (To Appear) In *Proceedings of the 10th International Conference on Indoor Positioning and Indoor Navigation (IPIN), Pisa (Italy), October 2019*.
+publication: In *Proceedings of the 10th International Conference on Indoor Positioning and Indoor Navigation (IPIN), Pisa (Italy), October 2019*.
 publication_short: In *IPIN'19*
 
 abstract: Time difference of arrival (TDoA) localization with ultra-wideband (UWB) radios is rapidly gaining interest. Nevertheless, TDoA requires tightly time-synchronized anchors, either via wireless synchronization in small-scale setups with all anchors in range or via expensive wired backbones, both ultimately hampering the use of TDoA in large-scale areas.<br>In this paper we present TALLA, a novel wireless-only TDoA approach able to scale over large operational areas without sacrificing positioning accuracy. TALLA relies on a TDMA schedule enabling continuous, multi-hop operation of the anchor infrastructure. We evaluate TALLA in our 12-node UWB testbed and in much larger (>100 anchors) simulated areas, empowered by a technique that generates synthetic timing information faithfully reproducing the trends of the real one. Our real and simulated results show that TALLA achieves decimeter-level accuracy while tracking a moving target across several hops.
@@ -33,7 +33,9 @@ tags:
 featured: true
 
 links:
-
+- name: Best Paper Award
+  url: http://ipin2019.isti.cnr.it
+url_pdf: 'files/papers/talla-ipin19.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
