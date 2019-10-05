@@ -6,7 +6,7 @@ authors:
 - Timofei Istomin
 - Gian Pietro Picco
 date: "2019-06-10T00:00:00Z"
-doi: ""
+doi: "10.1109/SAHCN.2019.8824929"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

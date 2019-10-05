@@ -25,10 +25,8 @@ abstract: Previous research has shown that centralized network control in Wirele
 summary: ' '
 
 tags:
-- Ultra-wideband
-- Concurrent Transmissions
-- Ranging
-- Communication
+- Wireless Sensor Networks
+- Centralized Control
 featured: false
 
 links:
