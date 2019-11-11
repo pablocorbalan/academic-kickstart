@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: (To Appear) In *Proceedings of the 32nd IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019), Macau (China), November 4-8, 2019*.
+publication: In *Proceedings of the 32nd IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019), Macau (China), November 4-8, 2019*.
 publication_short: In *IROS'19*
 
 abstract: We consider the problem of accurate and high-rate self-localization for a mobile robot. We adaptively combine the speed information acquired by proprioceptive sensors with intermittent positioning samples acquired via ultra-wideband (UWB) radios. These are triggered only if and when needed to reduce the positioning uncertainty, itself modeled by a probabilistic cost function. Our formulation is agnostic w.r.t. the source of uncertainty and enables an intuitive specification of user navigation requirements along with stochastic guarantees on the system operation. Experimental results in simulation and with a real platform show that our approach i) meets these guarantees in practice ii) achieves the same accuracy of a fixed periodic sampling but with significantly higher scalability and lower energy consumption iii) is resilient to errors in UWB estimates, enabling the use of low-accuracy ranging schemes which further improve these two performance metrics.
@@ -36,7 +36,9 @@ tags:
 featured: true
 
 links:
-url_pdf: 
+- name: Video
+  url: videos/iros19_video.mp4
+url_pdf: 'files/papers/odometry-uwb-iros19.pdf'
 
 
 # Featured image
